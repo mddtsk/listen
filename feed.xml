@@ -4,21 +4,21 @@
 <link>https://PODCAST URL.com/</link>
 <language>en-us</language>
 <atom:link href="https://github.com/mddtsk/listen/feed.xml" rel="self" type="application/rss+xml"/>
-<copyright>PODCAST CREATOR</copyright>
+<copyright>Tusker</copyright>
 <itunes:subtitle>PODCAST SUBTITLE</itunes:subtitle>
-<itunes:author>PODCAST CREATOR</itunes:author>
+<itunes:author>Tusker</itunes:author>
 <itunes:summary>
-PODCAST DESCRIPTION
+This is where the pod description will go.
 </itunes:summary>
 <itunes:keywords>
 KEYWORD1,KEYWORD2,KEYWORD3,...
 </itunes:keywords>
 <description>
-PODCAST DESCRIPTION
+This is also where the description will go.
 </description>
 <itunes:owner>
-<itunes:name>PODCAST CREATOR</itunes:name>
-<itunes:email>PODCAST CREATOR@EMAIL.COM</itunes:email>
+<itunes:name>Tusker</itunes:name>
+<itunes:email>fake@EMAIL.COM</itunes:email>
 </itunes:owner>
 <itunes:image href="https://raw.githubusercontent.com/mddtsk/listen/master/logo.jpg"/>
 <itunes:category text="CATEGORY1"></itunes:category>
@@ -28,7 +28,7 @@ PODCAST DESCRIPTION
 <item>
 <title>Test Episode Title</title>
 <itunes:title>Test Ep iTunes titles</itunes:title>
-<itunes:author>Pod Creator</itunes:author>
+<itunes:author>Tuskers</itunes:author>
 <itunes:subtitle>
 EPISODE SUBTITLE
 </itunes:subtitle>
@@ -44,18 +44,17 @@ EPISODE DESCRIPTION
 </description>
 <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
 <enclosure url="https://github.com/mddtsk/listen/raw/master/mp3/test.mp3" length="3:11" type="audio/mpeg"/>
-<itunes:duration>99999</itunes:duration>
-<itunes:season>SEASON #</itunes:season>
-<itunes:episode>EPISODE #</itunes:episode>
+<itunes:duration>999999</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://LOCATION OF MP3.MP3
 </guid>
 <pubDate>EPISODE PUBLISH DATE</pubDate>
-<itunes:explicit>YES/NO</itunes:explicit>
+<itunes:explicit>NO</itunes:explicit>
 </item>
 
-... REPEAT <item> for each episode ...
 
 </channel>
 </rss>
