@@ -43,7 +43,7 @@ EPISODE DESCRIPTION
 ]]>
 </description>
 <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
-<enclosure url="https://github.com/mddtsk/listen/mp3/test.mp3" length="LENGTH" type="audio/mpeg"/>
+<enclosure url="https://github.com/mddtsk/listen/raw/master/mp3/test.mp3" length="LENGTH" type="audio/mpeg"/>
 <itunes:duration>DURATION</itunes:duration>
 <itunes:season>SEASON #</itunes:season>
 <itunes:episode>EPISODE #</itunes:episode>
