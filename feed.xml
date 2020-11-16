@@ -26,9 +26,9 @@ PODCAST DESCRIPTION
 <itunes:category text="CATEGORY3"></itunes:category>
 
 <item>
-<title>EPISODE TITLE</title>
-<itunes:title>EPISODE TITLE</itunes:title>
-<itunes:author>PODCAST CREATOR</itunes:author>
+<title>Test Episode Title</title>
+<itunes:title>Test Ep iTunes titles</itunes:title>
+<itunes:author>Pod Creator</itunes:author>
 <itunes:subtitle>
 EPISODE SUBTITLE
 </itunes:subtitle>
