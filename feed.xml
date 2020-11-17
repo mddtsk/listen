@@ -20,7 +20,7 @@ Rats ONLY.
 <itunes:name>Tusker</itunes:name>
 <itunes:email>fake@EMAIL.COM</itunes:email>
 </itunes:owner>
-<itunes:image href="https://raw.githubusercontent.com/mddtsk/listen/master/logo.jpg"/>
+<itunes:image href="https://github.com/mddtsk/listen/raw/master/logo.jpg"/>
 <itunes:category text="CATEGORY1"></itunes:category>
 <itunes:category text="CATEGORY2"></itunes:category>
 <itunes:category text="CATEGORY3"></itunes:category>
