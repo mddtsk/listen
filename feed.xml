@@ -72,7 +72,7 @@ EPISODE DESCRIPTION
 EPISODE DESCRIPTION
 ]]>
 </description>
-<itunes:image href="https://github.com/mddtsk/listen/raw/master/images/logo.jpg"/>
+<itunes:image href="https://github.com/mddtsk/listen/raw/master/images/ep1.jpg"/>
 <enclosure url="https://github.com/mddtsk/listen/raw/master/mp3/sos/1.mp3" length="3:11" type="audio/mpeg"/>
 <itunes:duration>999999</itunes:duration>
 <itunes:season>1</itunes:season>
