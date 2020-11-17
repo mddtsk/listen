@@ -56,8 +56,8 @@ https://github.com/mddtsk/listen/raw/master/mp3/test.mp3
 </item>
 
 <item>
-<title>Ernst Junger - 01 of 16 - The Storm of Steel</title>
-<itunes:title>Ernst Junger - 01 of 16 - The Storm of Steel</itunes:title>
+<title>Ernst Junger The Storm of Steel</title>
+<itunes:title>Ernst Junger The Storm of Steel</itunes:title>
 <itunes:author>Tuskers</itunes:author>
 <itunes:subtitle>
 Only for rats.
@@ -74,6 +74,35 @@ EPISODE DESCRIPTION
 </description>
 <itunes:image href="https://github.com/mddtsk/listen/raw/master/images/ep1.jpg"/>
 <enclosure url="https://github.com/mddtsk/listen/raw/master/mp3/sos/1.mp3" length="3:11" type="audio/mpeg"/>
+<itunes:duration>999999</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://github.com/mddtsk/listen/raw/master/mp3/test.mp3
+</guid>
+<pubDate>EPISODE PUBLISH DATE</pubDate>
+<itunes:explicit>NO</itunes:explicit>
+</item>
+item>
+<title>Rat Cast Ep. 1 test test</title>
+<itunes:title>Rat Cast Ep. 1 test test</itunes:title>
+<itunes:author>Tuskers</itunes:author>
+<itunes:subtitle>
+Only for rats.
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</description>
+<itunes:image href="https://github.com/mddtsk/listen/blob/master/images/logo.jpg?raw=true"/>
+<enclosure url="https://github.com/mddtsk/listen/raw/master/mp3/test.mp3" length="3:11" type="audio/mpeg"/>
 <itunes:duration>999999</itunes:duration>
 <itunes:season>1</itunes:season>
 <itunes:episode>1</itunes:episode>
