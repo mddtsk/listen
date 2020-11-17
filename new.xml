@@ -1,35 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
 <channel>
-<title>Title of Podcast</title>
-<link>http://www.example.com/<link>
+<title>PODCAST TITLE</title>
+<link>https://PODCAST URL.com/</link>
 <language>en-us</language>
-<itunes:subtitle>Subtitle of podcast</itunes:subtitle>
-<itunes:author>Author Name</itunes:author>
-<itunes:summary>Description of podcast.</itunes:summary>
-<description>Description of podcast.</description>
+<atom:link href="https://PODCAST URL.com/feed.xml" rel="self" type="application/rss+xml"/>
+<copyright>PODCAST CREATOR</copyright>
+<itunes:subtitle>PODCAST SUBTITLE</itunes:subtitle>
+<itunes:author>PODCAST CREATOR</itunes:author>
+<itunes:summary>
+PODCAST DESCRIPTION
+</itunes:summary>
+<itunes:keywords>
+KEYWORD1,KEYWORD2,KEYWORD3,...
+</itunes:keywords>
+<description>
+PODCAST DESCRIPTION
+</description>
 <itunes:owner>
-    <itunes:name>Owner Name</itunes:name>
-    <itunes:email>me@example.com</itunes:email>
+<itunes:name>PODCAST CREATOR</itunes:name>
+<itunes:email>PODCAST CREATOR@EMAIL.COM</itunes:email>
 </itunes:owner>
-<itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://github.com/mddtsk/listen/raw/master/images/ep1.jpg" />
-<itunes:category text="Category"/>History</itunes:category>
+<itunes:image href="https://PODCAST IMAGE.jpg"/>
+<itunes:category text="CATEGORY1"></itunes:category>
+<itunes:category text="CATEGORY2"></itunes:category>
+<itunes:category text="CATEGORY3"></itunes:category>
 
-<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
-    <title>Title of Podcast Episode</title>
-    <itunes:summary>Description of podcast episode content</itunes:summary>
-    <description>Description of podcast episode content</description>
-    <link>http://example.com/podcast-1</link>
-    <enclosure url="https://github.com/mddtsk/listen/raw/master/mp3/sos/1.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
-    <itunes:author>Author Name</itunes:author>
-    <itunes:duration>00:32:16</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <guid>http://example.com/podcast-1</guid>
-</item> 
-<!--END REPEAT--> 
-   
+<title>EPISODE TITLE</title>
+<itunes:title>EPISODE TITLE</itunes:title>
+<itunes:author>PODCAST CREATOR</itunes:author>
+<itunes:subtitle>
+EPISODE SUBTITLE
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</description>
+<itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+<enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
+<itunes:duration>DURATION</itunes:duration>
+<itunes:season>SEASON #</itunes:season>
+<itunes:episode>EPISODE #</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://LOCATION OF MP3.MP3
+</guid>
+<pubDate>EPISODE PUBLISH DATE</pubDate>
+<itunes:explicit>YES/NO</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
