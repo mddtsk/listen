@@ -20,7 +20,7 @@ PODCAST DESCRIPTION
 <itunes:name>PODCAST CREATOR</itunes:name>
 <itunes:email>PODCAST CREATOR@EMAIL.COM</itunes:email>
 </itunes:owner>
-<itunes:image href="https://PODCAST IMAGE.jpg"/>
+<itunes:image href="https://github.com/mddtsk/listen/raw/master/images/ep1.jpg"/>
 <itunes:category text="CATEGORY1"></itunes:category>
 <itunes:category text="CATEGORY2"></itunes:category>
 <itunes:category text="CATEGORY3"></itunes:category>
@@ -42,17 +42,17 @@ EPISODE DESCRIPTION
 EPISODE DESCRIPTION
 ]]>
 </description>
-<itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
-<enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
-<itunes:duration>DURATION</itunes:duration>
-<itunes:season>SEASON #</itunes:season>
-<itunes:episode>EPISODE #</itunes:episode>
+<itunes:image href="https://github.com/mddtsk/listen/raw/master/images/ep1.jpg"/>
+<enclosure url="https://github.com/mddtsk/listen/raw/master/mp3/sos/1.mp3" length="6:30" type="audio/mpeg"/>
+<itunes:duration>1024</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://LOCATION OF MP3.MP3
 </guid>
 <pubDate>EPISODE PUBLISH DATE</pubDate>
-<itunes:explicit>YES/NO</itunes:explicit>
+<itunes:explicit>NO</itunes:explicit>
 </item>
 
 
