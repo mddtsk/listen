@@ -21,9 +21,9 @@ PODCAST DESCRIPTION
 <itunes:email>PODCAST CREATOR@EMAIL.COM</itunes:email>
 </itunes:owner>
 <itunes:image href="https://github.com/mddtsk/listen/raw/master/images/ep1.jpg"/>
-<itunes:category text="CATEGORY1"></itunes:category>
-<itunes:category text="CATEGORY2"></itunes:category>
-<itunes:category text="CATEGORY3"></itunes:category>
+<itunes:category text="CATEGORY1">History</itunes:category>
+<itunes:category text="CATEGORY2">Comedy</itunes:category>
+<itunes:category text="CATEGORY3">Fiction</itunes:category>
 
 <item>
 <title>EPISODE TITLE</title>
@@ -49,9 +49,8 @@ EPISODE DESCRIPTION
 <itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
-https://LOCATION OF MP3.MP3
 </guid>
-<pubDate>EPISODE PUBLISH DATE</pubDate>
+<pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
 <itunes:explicit>NO</itunes:explicit>
 </item>
 
