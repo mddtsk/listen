@@ -31,8 +31,8 @@ Rats ONLY.
 
 
 <item>
-<title>Rat Cast Ep. 1 test test</title>
-<itunes:title>Rat Cast Ep. 1 test test</itunes:title>
+<title>Rat Cast Ep. 1 test test lol</title>
+<itunes:title>Rat Cast Ep. 1 test test lol</itunes:title>
 <itunes:author>Tuskers</itunes:author>
 <itunes:subtitle>
 Only for rats.
@@ -50,7 +50,7 @@ This is ust a test of the RatCast. That's about it.
 <itunes:image href="https://github.com/mddtsk/listen/blob/master/images/logo.jpg?raw=true"/>
 <enclosure url="https://github.com/mddtsk/listen/raw/master/mp3/test.mp3" length="3:11" type="audio/mpeg"/>
 <itunes:duration>999999</itunes:duration>
-<itunes:season>1</itunes:season>
+<itunes:season>2</itunes:season>
 <itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
@@ -89,12 +89,12 @@ EPISODE DESCRIPTION
 <guid isPermaLink="false">
 https://github.com/mddtsk/listen/raw/master/mp3/test.mp3
 </guid>
-<pubDate>EPISODE PUBLISH DATE</pubDate>
+<pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
 <itunes:explicit>NO</itunes:explicit>
 </item>
 item>
-<title>Rat Cast Ep. 1 test test</title>
-<itunes:title>Rat Cast Ep. 1 test test</itunes:title>
+<title>Rat Cast Ep. 1 test woof test</title>
+<itunes:title>Rat Cast Ep. 1 woof test test</itunes:title>
 <itunes:author>Tuskers</itunes:author>
 <itunes:subtitle>
 Only for rats.
@@ -118,7 +118,7 @@ EPISODE DESCRIPTION
 <guid isPermaLink="false">
 https://github.com/mddtsk/listen/raw/master/mp3/test.mp3
 </guid>
-<pubDate>EPISODE PUBLISH DATE</pubDate>
+<pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
 <itunes:explicit>NO</itunes:explicit>
 </item>
 </channel>
