@@ -25,6 +25,11 @@ Rats ONLY.
 <itunes:category text="CATEGORY2"></itunes:category>
 <itunes:category text="CATEGORY3"></itunes:category>
 
+
+
+
+
+
 <item>
 <title>Rat Cast Ep. 1 test test</title>
 <itunes:title>Rat Cast Ep. 1 test test</itunes:title>
@@ -39,7 +44,7 @@ EPISODE DESCRIPTION
 </itunes:summary>
 <description>
 <![CDATA[
-EPISODE DESCRIPTION
+This is ust a test of the RatCast. That's about it.
 ]]>
 </description>
 <itunes:image href="https://github.com/mddtsk/listen/blob/master/images/logo.jpg?raw=true"/>
@@ -51,9 +56,12 @@ EPISODE DESCRIPTION
 <guid isPermaLink="false">
 https://github.com/mddtsk/listen/raw/master/mp3/test.mp3
 </guid>
-<pubDate>EPISODE PUBLISH DATE</pubDate>
+<pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
 <itunes:explicit>NO</itunes:explicit>
 </item>
+
+
+
 
 <item>
 <title>Ernst Junger The Storm of Steel</title>
@@ -76,7 +84,7 @@ EPISODE DESCRIPTION
 <enclosure url="https://github.com/mddtsk/listen/raw/master/mp3/sos/1.mp3" length="3:11" type="audio/mpeg"/>
 <itunes:duration>999999</itunes:duration>
 <itunes:season>1</itunes:season>
-<itunes:episode>1</itunes:episode>
+<itunes:episode>2</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://github.com/mddtsk/listen/raw/master/mp3/test.mp3
@@ -105,7 +113,7 @@ EPISODE DESCRIPTION
 <enclosure url="https://github.com/mddtsk/listen/raw/master/mp3/test.mp3" length="3:11" type="audio/mpeg"/>
 <itunes:duration>999999</itunes:duration>
 <itunes:season>1</itunes:season>
-<itunes:episode>1</itunes:episode>
+<itunes:episode>3</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://github.com/mddtsk/listen/raw/master/mp3/test.mp3
